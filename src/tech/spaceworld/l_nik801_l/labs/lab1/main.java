@@ -3,6 +3,7 @@ package tech.spaceworld.l_nik801_l.labs.lab1;
 import java.util.Scanner;
 
 public class main {
+
     public main() {
         Scanner in = new Scanner(System.in);
         System.out.println("Привет! я лаба 1!");
