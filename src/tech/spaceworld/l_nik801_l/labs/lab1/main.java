@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class main {
     public main() {
         Scanner in = new Scanner(System.in);
-
         System.out.println("Привет! я лаба 1!");
         System.out.println(
                 "Вариант 10.\n" +
